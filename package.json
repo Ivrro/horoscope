@@ -1,0 +1,12 @@
+{
+  "name": "Horoscope",
+  "version": "0.0.1",
+  "description": "Test technique",
+  "author": "Arthur Poissonnier",
+  "scripts": {
+
+  },
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
